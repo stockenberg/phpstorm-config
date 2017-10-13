@@ -1,0 +1,267 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3065f5df-4bd3-44a5-8a86-67fa9e90e3c8" name="Figur Finder" url="http://www.figur-finder.net">
+        <fileTransfer host="www.figur-finder.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9b86b1d1-37b2-459b-b844-0b89c80f405e" name="Crankbytes" url="http://212.224.89.156">
+        <fileTransfer host="212.224.89.156" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="eedc3422-a1b5-42d7-8091-e34036f4e453" name="Autogen" url="http://ws.udag.de">
+        <fileTransfer host="ws.udag.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="148cb9cc-f6aa-44f4-a9bf-b953afcc6654" name="Top Baufi" url="http://www.top-baufi.de">
+        <fileTransfer host="www.top-baufi.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="19b0db6a-e9d6-43de-a0f2-e14a62a4fd05" name="Amanda Koch" url="http://www.amandakoch.de">
+        <fileTransfer host="www.amandakoch.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="60996c06-0878-4c0b-93b5-21deb120a9ee" name="Koch Dialog" url="http://www.kochdialog.de">
+        <fileTransfer host="www.kochdialog.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="254bb431-b149-400a-8259-02154b431dfb" name="Michael Marr" url="http://mp-imv.de">
+        <fileTransfer host="mp-imv.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b6bc941a-edc7-4551-9738-e8b7ddd6041e" name="Engelstein" url="http://www.engelstein.de">
+        <fileTransfer host="www.engelstein.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a1dd7831-5f36-430b-9a4e-8aaa3ab48c29" name="Engelstein Dev" url="http://engelstein.de">
+        <fileTransfer host="engelstein.de" port="22" rootFolder="/kunden/424797_04103/webseiten/DEVwebshop2016" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1995ceb3-f360-4011-9d72-5ab26a5bff40" name="Thomas Schröck" url="http://www.hypnose-leipzig.de">
+        <fileTransfer host="ftp.kunde.tomasschroeck.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7632dd1e-d368-4daa-8757-017d5c3bfc8e" name="Familia-Verlag" url="http://www.familia-verlag.de">
+        <fileTransfer host="www.familia-verlag.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="04879e99-8b25-469a-ba2b-c24759f36244" name="Jens Mischnik" url="http://www.jensmischnik.de">
+        <fileTransfer host="www.jensmischnik.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="021ef546-620e-4f4a-a12e-0299ccedf571" name="LernLaden" url="http://lernladen-leipzig.de">
+        <fileTransfer host="lernladen-leipzig.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="60eaaa21-321b-48d4-b9cd-3ca3652572ab" name="Msonair" url="http://musikschuleonair.de">
+        <fileTransfer host="musikschuleonair.de" port="21" rootFolder="/msonair">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a1b26b13-6d6d-41e4-ba12-ebe238be2753" name="Hoerakustik-Reinhardt" url="http://82.198.68.127">
+        <fileTransfer host="82.198.68.127" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3fc8337e-f956-43b0-a11c-6160aa32f44a" name="Network" url="http://192.168.1.112/maddocs">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\madd" accessType="MOUNT" />
+      </webServer>
+      <webServer id="954cae1d-e2fa-493a-81c5-c1f4637674df" name="Maddocs" url="http://192.168.1.112/maddocs">
+        <fileTransfer mountedRoot="X:\" accessType="MOUNT" />
+      </webServer>
+      <webServer id="f4b1e828-bd77-4308-affc-91a4972597b6" name="XAMPP Apache" url="http://localhost:8888">
+        <fileTransfer mountedRoot="C:\xampp\htdocs" accessType="MOUNT" />
+      </webServer>
+      <webServer id="0564fa74-9314-4e0d-86bc-5dd4076f6db7" name="Autogen (1)" url="http://ws.udag.de">
+        <fileTransfer host="ws.udag.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="66a9634a-4bd8-4f58-ab61-a6c7fb944552" name="saeleipzig" url="http://www.saeleipzig.de">
+        <fileTransfer host="www.saeleipzig.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="aba7921b-3817-4539-996d-7fc6406550e6" name="mycoding.rocks" url="http://mstockenberg.de">
+        <fileTransfer host="mstockenberg.de" port="21" rootFolder="/webseiten/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d25f8c0c-c8ec-4dcf-bdaa-10023b4153cb" name="dev-m3 - Zuchtrueden" url="http://176.9.38.69">
+        <fileTransfer host="176.9.38.69" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b192f5b5-0511-420d-b0aa-287519f99561" name="Engelstein Live" url="http://engelstein.de">
+        <fileTransfer host="engelstein.de" port="22" rootFolder="/kunden/424797_04103/webseiten/webshop2014" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9dc3b153-c753-4918-99f9-19fd144c6272" name="Lichtpfade" url="http://176.9.38.69">
+        <fileTransfer host="176.9.38.69" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c123eb72-2605-4323-9c22-7c3cb7716365" name="e1immobilien.de" url="http://e1immobilien.de">
+        <fileTransfer host="e1immobilien.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5e41e181-9eb9-4253-b9e3-df925c6e01d5" name="hidmayr" url="http://80.74.137.11">
+        <fileTransfer host="80.74.137.11" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9f41fb0a-4efb-4d3d-9c60-7879e8010cbf" name="m3-heyden" url="http://176.9.38.69">
+        <fileTransfer host="176.9.38.69" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b3d56b20-f1fb-48b8-883e-c86da3ac74e0" name="Lernladen Leipzig" url="http://www.lela-leipzig.de/">
+        <fileTransfer host="server10.campusspeicher.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="aac0c526-5ddf-4734-9c84-3b68abe79c4d" name="EngelsteinDS" url="http://192.168.178.200/">
+        <fileTransfer port="0" mountedRoot="C:\xampp2\htdocs" accessType="MOUNT" />
+      </webServer>
+      <webServer id="5b45b9c3-3080-4320-85c9-961e2167568a" name="sae_server_gespraechsprotokoll" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="Z:\SAEserver\sae-gespraechsprotokoll" accessType="MOUNT" />
+      </webServer>
+      <webServer id="51ecc748-a4c1-44e0-844f-822c6509832a" name="infoscreenlocal" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="Z:\SAEserver\infoscreen" accessType="MOUNT" />
+      </webServer>
+      <webServer id="53d91f2f-80f6-4283-965b-3c89b576d004" name="torsten.solberg" url="http://wp412.webpack.hosteurope.de">
+        <fileTransfer host="wp412.webpack.hosteurope.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="92806445-a238-42f3-87cd-b1b518decda0" name="musikschuleonair.de" url="http://musikschuleonair.de">
+        <fileTransfer host="musikschuleonair.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ac43b9ff-fb91-4c2b-8859-aec2f1ec41d3" name="azav" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="/media/SAE-Server/SAEserver/sae-azav" accessType="MOUNT" />
+      </webServer>
+      <webServer id="d23b9256-1db4-49c9-bb66-45cc0ede9969" name="mstockenberg" url="http://mstockenberg.de">
+        <fileTransfer host="mstockenberg.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="472f1fdd-a7fa-4b8d-838a-840caf956283" name="uebag_backend" url="http://home433804853.1and1-data.host">
+        <fileTransfer host="home433804853.1and1-data.host" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="424a6343-0342-46c3-b5c6-8d57e030522b" name="dienstausweis-datenerfassung.de" url="http://dienstausweis-datenerfassung.de">
+        <fileTransfer host="dienstausweis-datenerfassung.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
