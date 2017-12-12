@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[4100 Praktische Prüfung Studentendaten Abgaben] - .../assig'" />
-    <option name="defaultScopeName" value="Directory '[4100 Praktische Prüfung Studentendaten Abgaben] - .../assig'" />
-    <option name="SEARCH_SCOPE" value="Directory '[4100 Praktische Prüfung Studentendaten Abgaben] - .../assig'" />
+    <option name="customScope" value="Directory '[webprojekt_a.assig] - .../html_version'" />
+    <option name="defaultScopeName" value="Directory '[webprojekt_a.assig] - .../html_version'" />
+    <option name="SEARCH_SCOPE" value="Directory '[webprojekt_a.assig] - .../html_version'" />
   </component>
 </application>
