@@ -257,7 +257,7 @@
       <webServer id="424a6343-0342-46c3-b5c6-8d57e030522b" name="dienstausweis-datenerfassung.de" url="http://dienstausweis-datenerfassung.de">
         <fileTransfer host="dienstausweis-datenerfassung.de" port="21">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
