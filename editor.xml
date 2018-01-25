@@ -16,4 +16,16 @@
   <component name="SqlEditorOptions">
     <option name="qualificationType" value="On collisions" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern useCustomColors="true" pattern="\bbug\b.*">
+      <option name="FOREGROUND" value="ff3a45" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern useCustomColors="true" pattern="\bnotice\b.*">
+      <option name="FOREGROUND" value="3fccff" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+  </component>
 </application>
