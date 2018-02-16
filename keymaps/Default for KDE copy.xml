@@ -1,4 +1,5 @@
 <keymap version="1" name="Default for KDE copy" parent="Default for KDE">
+  <action id="BaseOnThisFunction" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl 4" />
     <keyboard-shortcut first-keystroke="alt w" />
@@ -38,5 +39,10 @@
   </action>
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
 </keymap>
