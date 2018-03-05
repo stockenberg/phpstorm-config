@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
   <action id="DuplicatesForm.SendToLeft" />
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="alt button1" />
@@ -27,6 +30,7 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
+  <action id="JumpToLastWindow" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -41,5 +45,15 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="StepOver" />
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="f8" />
   </action>
 </keymap>
