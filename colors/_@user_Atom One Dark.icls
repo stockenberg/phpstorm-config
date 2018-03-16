@@ -4,7 +4,7 @@
     <property name="created">2018-03-04T16:14:38</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-03-04T16:30:35</property>
+    <property name="modified">2018-03-16T13:02:04</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -525,7 +525,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="59626f" />
+        <option name="FOREGROUND" value="1ea62d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -561,7 +561,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="59626f" />
+        <option name="FOREGROUND" value="1ea62d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -648,7 +648,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="59626f" />
+        <option name="FOREGROUND" value="1ea62d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2506,24 +2506,12 @@
         <option name="FOREGROUND" value="a6b2c0" />
       </value>
     </option>
-    <option name="PHP_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="59626f" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="PHP_CONCATENATION">
       <value />
     </option>
     <option name="PHP_CONSTANT">
       <value>
         <option name="FOREGROUND" value="d19a66" />
-      </value>
-    </option>
-    <option name="PHP_DOC_COMMENT_ID">
-      <value>
-        <option name="FOREGROUND" value="59626f" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_DOC_TAG">
