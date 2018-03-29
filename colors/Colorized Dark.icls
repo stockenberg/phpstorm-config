@@ -1,7 +1,7 @@
 <scheme name="Colorized Dark" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0833334" />
   <metaInfo>
-    <property name="modified">2018-03-29T10:50:49</property>
+    <property name="modified">2018-03-29T14:04:29</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -808,6 +808,12 @@
         <option name="FOREGROUND" value="fa6900" />
       </value>
     </option>
+    <option name="MAGIC_MEMBER_ACCESS">
+      <value>
+        <option name="FOREGROUND" value="7675ae" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d33682" />
@@ -871,6 +877,7 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
+    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_PREDEFINED SYMBOL">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
