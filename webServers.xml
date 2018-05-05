@@ -9,6 +9,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="371b489a-2f56-4743-8b21-bcc9ea882791" name="DZP Server" url="http://home433804853.1and1-data.host">
+        <fileTransfer host="home433804853.1and1-data.host" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
